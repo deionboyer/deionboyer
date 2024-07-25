@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Deion Boyer and I am a junior-levek ASP.Net Web Application Developer.
+My name is Deion Boyer and I am a junior-level ASP.Net Web Application Developer.
 
 I am editing this from GitKraken!
 
